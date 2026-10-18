@@ -1,0 +1,13 @@
+# Secrets and environment
+.env
+.env.*
+!.env.example
+*auth_token*
+*.pem
+*.key
+__pycache__/
+.venv/
+venv/
+prowler-venv/
+*.log
+.DS_Store
